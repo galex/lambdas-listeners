@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LambdasTests</string>
+    <string name="obtain_audio_focus">Obtain Audio Focus</string>
+    <string name="release_audio_focus">Release Audio Focus</string>
+</resources>
